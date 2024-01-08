@@ -1,0 +1,22 @@
+[
+  {
+    "EmpId": 1671470468,
+    "EmpSalary": 9500,
+    "EmpName": "Tork",
+    "PhoneNumber": "01550522117",
+    "Adress": "iop",
+    "UserName": "Tork",
+    "UserPassword": "1234",
+    "UserRole": "Chief"
+  },
+  {
+    "EmpId": 1040606502,
+    "EmpSalary": 12456,
+    "EmpName": "ayat",
+    "PhoneNumber": "01200449784",
+    "Adress": "asdf",
+    "UserName": "aya",
+    "UserPassword": "124578",
+    "UserRole": "cachier"
+  }
+]
