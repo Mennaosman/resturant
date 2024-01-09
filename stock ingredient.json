@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    {
+      "IngredientID": 1,
+      "IngredientName": "Flour",
+      "IngredientStatus": "Available",
+      "IngredientQuantity": 500
+    },
+    {
+      "IngredientID": 2,
+      "IngredientName": "Tomatoes",
+      "IngredientStatus": "Available",
+      "IngredientQuantity": 200
+    },
+    {
+      "IngredientID": 3,
+      "IngredientName": "Cheese",
+      "IngredientStatus": "Low",
+      "IngredientQuantity": 150
+    },
+    {
+      "IngredientID": 4,
+      "IngredientName": "Chicken",
+      "IngredientStatus": "Available",
+      "IngredientQuantity": 300
+    },
+    {
+      "IngredientID": 5,
+      "IngredientName": "Lettuce",
+      "IngredientStatus": "Available",
+      "IngredientQuantity": 100
+    }
+  ]
+}

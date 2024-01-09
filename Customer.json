@@ -1,0 +1,29 @@
+[
+  {
+    "CustomerId": "",
+    "FullName": "mustafa ahmoud",
+    "PhoneNumber": "01222222222",
+    "Address": "alex",
+    "UserName": null,
+    "UserPassword": null,
+    "Balance": 0
+  },
+  {
+    "CustomerId": "mustafamah123456",
+    "FullName": "mustafa mahmoud",
+    "PhoneNumber": "01222222222",
+    "Address": "alex",
+    "UserName": "mustafamah",
+    "UserPassword": "123456",
+    "Balance": 0
+  },
+  {
+    "CustomerId": "m1",
+    "FullName": "mm",
+    "PhoneNumber": "01222222222",
+    "Address": "a",
+    "UserName": "m",
+    "UserPassword": "1",
+    "Balance": 0
+  }
+]
